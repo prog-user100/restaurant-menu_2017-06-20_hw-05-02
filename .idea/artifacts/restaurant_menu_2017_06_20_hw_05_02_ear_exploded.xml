@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="restaurant-menu_2017-06-20_hw-05-02:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/restaurant_menu_2017_06_20_hw_05_02_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="restaurant-menu_2017-06-20_hw-05-02/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>
